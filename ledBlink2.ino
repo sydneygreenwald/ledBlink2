@@ -8,6 +8,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  digitalWrite(ledPin1, HIGH);
+  digitalWrite(ledPin2, HIGH);
 }
