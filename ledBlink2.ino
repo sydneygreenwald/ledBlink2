@@ -1,5 +1,7 @@
+int ledPin1 = 13;
+
 void setup() {
-  // put your setup code here, to run once:
+  pinMode(ledPin1, OUTPUT);
 
 }
 
